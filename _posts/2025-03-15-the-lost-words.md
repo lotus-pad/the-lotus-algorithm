@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "How to create a blog post"
-author: Shannon Tass
-description: A sample post with instructions and tips on how to create a new blog post.   
+title:  "The Lost Words: Analysis of Book Bans"
+author: lotus
+description: Exploring book bans using data   
 image: "/assets/images/image5.jpg"
 ---
 

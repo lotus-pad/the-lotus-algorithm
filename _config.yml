@@ -27,6 +27,8 @@ image: /assets/images/lotus-headerimg.jpg
 author: lotus pad
 copyright: lp 2025 # Your initials or name or what you want the copyright to be.  Leave empty for no copyright
 footer_description: 
+plugins:
+  - jekyll-seo-tag
 
 
 # Social media users names.  Leave fields blank that you don't want displayed
