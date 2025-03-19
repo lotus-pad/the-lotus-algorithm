@@ -21,7 +21,7 @@
 title: The Lotus Algorithm # Lotus Query, Blooming Data, Petal Plot, Lotus Byte
 email: ektakhoteja60@gmail.com 
 description: "let's explore the sea of knowledge that is data science" 
-baseurl: "/stat386-blog-theme" # the name of the repository 
+baseurl: "/the-lotus-algorithm" # the name of the repository 
 url: "https://lotus-pad.github.io" #  change this to "https://<your-github-username>.github.io"
 image: /assets/images/lotus-headerimg.jpg
 author: lotus pad
